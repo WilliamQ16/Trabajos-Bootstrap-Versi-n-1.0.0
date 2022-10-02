@@ -17,7 +17,7 @@ A continuación, se hará una comparativa de un trabajo realizado en HTML- CSS t
 
 ### Trabajo HTML-CSS Tradicional.
 
-![HTML_CSS_TRADICIONAL](https://github.com/WilliamQ16/Ejercicios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap6.png)
+![HTML_CSS_TRADICIONAL](https://github.com/WilliamQ16/Ejecricios-HTML-Versi-n-4.0.0/blob/main/Com_Readme/Cap6.png)
 
 ### Trabajo HTML-CSS Bootstrap.
 
