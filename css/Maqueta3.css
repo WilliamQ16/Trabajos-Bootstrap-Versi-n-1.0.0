@@ -1,0 +1,47 @@
+#header{
+
+    background: green;
+    height: 50px;
+    border: solid;
+
+}
+
+#col1{
+
+    background: yellow;
+    height: 200px;
+    border: solid;
+
+}
+
+#col2{
+
+    background: orange;
+    height: 150px;
+    border: solid;
+
+}
+
+#col3{
+
+    background: orange;
+    height: 150px;
+    border: solid;
+
+}
+
+#col4{
+
+    background: cadetblue;
+    height: 350px;
+    border: solid;
+
+}
+
+#foo{
+
+    background: rgb(129, 126, 81);
+    height: 100px;
+    border: solid;
+
+}

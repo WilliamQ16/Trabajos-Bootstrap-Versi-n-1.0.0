@@ -1,0 +1,39 @@
+.titulo{
+
+    width: 100%;
+    height: 600px;
+    margin-bottom: 2%;
+
+}
+
+.stitulo{
+
+    width: 100%;
+    height: 400px;
+
+}
+
+.card{
+
+    width: 100%;
+    height: 400px;
+
+}
+
+.ante{
+
+    color: Red;
+
+}
+
+.estrella{
+
+    color: orange;
+
+}
+
+.letra{
+
+    font-size: 11px;
+
+}
